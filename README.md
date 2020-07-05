@@ -1,5 +1,5 @@
 # wtf
-meow
+meow - DELETE this complete repository - When I find the remove / delete button.
 
 USING ~ Instruction set from HERE - https://guides.github.com/activities/hello-world/
 
